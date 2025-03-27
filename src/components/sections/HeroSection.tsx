@@ -40,7 +40,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div ref={animatedElementsRef} className="section-fade-in">
             <div className="inline-block px-4 py-1.5 mb-6 rounded-full bg-primary/10 text-primary font-medium text-sm">
-              Meet Your AI CFO Agents
+              AI CFO Agents that boost ROI
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
               AI CFO Agents that drive your company's <span className="questt-gradient-text">ROI</span>
