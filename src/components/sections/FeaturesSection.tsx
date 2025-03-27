@@ -39,9 +39,9 @@ const FeaturesSection = () => {
     <section className="py-20 px-6 md:px-10 bg-secondary">
       <div className="max-w-7xl mx-auto">
         <SectionHeading
-          subtitle="What We Do"
+          subtitle="What Our AI CFO Agents Do"
           title="Transforming Financial Data Into Strategic Advantage"
-          description="Our solution is built on the foundation of rigorous financial principles and leverages your complete dataset to deliver actionable insights."
+          description="Our AI CFO Agents are trained in advanced financial principles and leverage your complete dataset to drive your business towards greater revenue and reduced costs."
           centered
           className="section-fade-in"
         />
@@ -51,7 +51,7 @@ const FeaturesSection = () => {
             <FeatureCard
               icon={BarChart2}
               title="Business Intelligence"
-              description="Identify hidden opportunities with cutting-edge algorithms that uncover trends and patterns for strategic business decisions."
+              description="Our agents harness the power of data to identify untapped revenue streams and cost-saving opportunities, analyzing market trends and performance metrics for actionable insights."
             />
           </div>
           
@@ -59,15 +59,15 @@ const FeaturesSection = () => {
             <FeatureCard
               icon={MessageSquare}
               title="Conversational Finance"
-              description="Stay ahead with real-time reporting and dynamic financial conversations that ensure critical decisions are backed by timely insights."
+              description="Experience real-time financial reporting and dynamic discussions with your leadership team, ensuring that every decision is informed by timely data-driven insights."
             />
           </div>
           
           <div className="section-fade-in" style={{ transitionDelay: '300ms' }}>
             <FeatureCard
               icon={Shield}
-              title="Risk Management"
-              description="Ensure your business adheres to tax regulations and internal policies, reducing risk and maintaining robust governance."
+              title="Risk & Management"
+              description="Stay ahead of regulatory demands and internal policy requirements. Our agents monitor tax compliance and governance protocols, minimizing risks before they impact your business."
             />
           </div>
           

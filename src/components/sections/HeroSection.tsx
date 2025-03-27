@@ -40,13 +40,13 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div ref={animatedElementsRef} className="section-fade-in">
             <div className="inline-block px-4 py-1.5 mb-6 rounded-full bg-primary/10 text-primary font-medium text-sm">
-              AI-Powered Financial Intelligence
+              Meet Your AI CFO Agents
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
               Boost Your ROI with <span className="questt-gradient-text">Intelligent</span> Financial Insights
             </h1>
             <p className="text-lg text-muted-foreground mb-8 max-w-lg">
-              Our advanced AI platform harnesses the power of your data to deliver actionable insights that drive growth and efficiency.
+              Welcome to the future of financial leadership. Our AI CFO Agents are your dedicated virtual CFO team, trained in advanced financial principles and empowered by your complete dataset.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Link to="/contact">
