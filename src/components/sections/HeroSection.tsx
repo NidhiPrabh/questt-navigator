@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from 'react';
 import { Button } from '@/components/ui/button';
 import { ChevronRight, BarChart2, Shield, LineChart } from 'lucide-react';
@@ -43,7 +42,7 @@ const HeroSection = () => {
               Meet Your AI CFO Agents
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              Boost Your ROI with <span className="questt-gradient-text">Intelligent</span> Financial Insights
+              Your Virtual CFO Team Driving <span className="questt-gradient-text">Financial Excellence</span>
             </h1>
             <p className="text-lg text-muted-foreground mb-8 max-w-lg">
               Welcome to the future of financial leadership. Our AI CFO Agents are your dedicated virtual CFO team, trained in advanced financial principles and empowered by your complete dataset.
